@@ -55,11 +55,11 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar - https://github.com/castroalves/github-calendar */
-    GitHubCalendar("#github-graph", "castroalves");
+    GitHubCalendar("#github-graph", "stefanocutelle");
     
     
     /* Github Activity Feed - https://github.com/castroalves/github-activity */
-    GitHubActivity.feed({ username: "castroalves", selector: "#ghfeed" });
+    GitHubActivity.feed({ username: "stefanocutelle", selector: "#ghfeed" });
 
 
 });
